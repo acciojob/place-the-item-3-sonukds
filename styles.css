@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+  flex-direction: row-reverse;
+	justify-content: space-around;
+	
+	
+}
+.item{
+	height:180px;
+	width: 180px;
+	background-color: #12b881;
+	border:1px solid black;
+	margin-top: 10px;
+	margin-left: 10px;
+	text-align: center;
+	font-size: 20px
+	
+	
+}
+
